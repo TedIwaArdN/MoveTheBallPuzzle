@@ -1,4 +1,5 @@
-Moving the ball puzzles 1.0.1
+Moving the ball puzzles 
+v1.0.1
 Edward Tian
 
 This puzzle requires the player to use WASD or ↑←↓→ to move the black and white ball to 
